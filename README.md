@@ -1,18 +1,15 @@
-## Getting Started
+# Criando Métodos em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Exercício feito como parte do bootcamp fullstack developer da TQI pela plataforma [DIO](dio.me)
 
-The workspace contains two folders by default, where:
+## Conteúdo aplicado
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- If/Else statements
+- Criação de métodos públicos Java
+- Importação de métodos no App principal
+- Impressão do resultado na tela utilizando `System.out.println()`
+- Operadores AND (&&) lógico para comparação de parâmetros
+- Envio de parâmetros para o método
+- Criação de variáveis

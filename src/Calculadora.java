@@ -20,6 +20,6 @@ public class Calculadora {
   public static void divide(double numberA, double numberB) {
     double result = numberA / numberB;
 
-    System.out.println("A divisão de " + numberA + " e " + numberB + " é igual a " + result);
+    System.out.println("A divisão de " + numberA + " e " + numberB + " é igual a " + result + "\n");
   }
 }
